@@ -1,5 +1,5 @@
 <h1 align="center">I'm Almog Shtaigmann</h1>
-<h3 align="center">An SW Developer</h3>
+<h3 align="center">A Automation Develpoer - DevOps && Software Developer @ Intel</h3>
 
 - 📫 How to reach me **a.shtaigmann@gmail.com**
 
