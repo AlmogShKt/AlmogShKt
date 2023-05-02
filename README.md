@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Almog Shtaigmann</h1>
+<h1 align="center">I'm Almog Shtaigmann</h1>
 <h3 align="center">An SW Developer</h3>
 
 - 📫 How to reach me **a.shtaigmann@gmail.com**
