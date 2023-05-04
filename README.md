@@ -5,6 +5,7 @@
 
 - 📫 How to reach me **a.shtaigmann@gmail.com**
 ___
+### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,postgres,java,powershell,c,md,github,git,arduino,azure,postman,vscode,linkedin&perline=7)](https://skillicons.dev)
 ___
 <h3 align="left">Connect with me:</h3>
@@ -15,4 +16,8 @@ ___
 ___
 ## Some staticts On My Acticity:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmogShKt)](https://github.com/AlmogShKt)
+[![AlmogShKt's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmogShKt)](https://github.com/AlmogShKt)
+
+![AlmogShKt's GitHub stadts](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmogShKt&layout=compact)
+
+
