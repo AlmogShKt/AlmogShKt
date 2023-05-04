@@ -16,8 +16,4 @@ ___
 ___
 ## Some staticts On My Acticity:
 
-[![AlmogShKt's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmogShKt)](https://github.com/AlmogShKt)
-
-![AlmogShKt's GitHub stadts](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmogShKt&layout=compact)
-
-
+![Almog's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmogShKt&show_icons=true&theme=algolia)  
