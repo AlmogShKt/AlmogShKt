@@ -1,6 +1,6 @@
 <h1 align="center">I'm Almog Shtaigmann</h1>
 <h3 align="center">Automation Develpoer - DevOps && Software Developer @ Intel</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=almogshkt&label=Profile%20views&color=0e75b6&style=flat" alt="almogshkt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=almogshkt&label=Profile%20views&color=29cebc&style=flat" alt="almogshkt" /> </p>
 
 
 - 📫 How to reach me **a.shtaigmann@gmail.com**
