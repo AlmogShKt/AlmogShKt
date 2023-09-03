@@ -16,7 +16,7 @@ ___
 ___
 ## Some staticts On My Acticity:
 
-![Almog's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmogShKt&show_icons=true&theme=radical)  
+<!-- ![Almog's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmogShKt&show_icons=true&theme=radical)-->
 
 ## My work profile data:
 ![image](https://github.com/AlmogShKt/AlmogShKt/assets/63158735/80285e9a-776e-4e3b-ac5f-c2c331e794a3)
