@@ -1,5 +1,5 @@
 <h1 align="center">I'm Almog Shtaigmann</h1>
-<h3 align="center">Automation Developer - DevOps && Software Developer Student @ Intel</h3>
+<h3 align="center">Application Software Engineer Student @ Shutterfly </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=almogshkt&label=Profile%20views&color=29cebc&style=flat" alt="almogshkt" /> </p>
 
 - 📚 2nd Year Computer Science Student
