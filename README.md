@@ -6,7 +6,7 @@
 - 📫 How to reach me **a.shtaigmann@gmail.com**
 ___
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,flask,postgres,java,powershell,c,md,github,git,arduino,azure,postman,vscode,linkedin&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,kotlin,java,powershell,c,md,github,git,arduino,azure,postman,vscode,linkedin&perline=7)](https://skillicons.dev)
 ___
 <h3 align="left">Connect with me:</h3>
 <p align="left">
