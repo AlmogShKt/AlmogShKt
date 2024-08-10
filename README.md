@@ -4,6 +4,7 @@
 
 - 📚 2nd Year Computer Science Student
 - 📫 How to reach me **a.shtaigmann@gmail.com**
+- [My Site](https://almogshkt.github.io/Almog-Shtaigmann/index.html)
 ___
 ### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,kotlin,java,androidstudio,powershell,c,md,github,git,arduino,azure,postman,vscode,linkedin&perline=7)](https://skillicons.dev)
