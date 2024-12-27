@@ -1,8 +1,8 @@
 <h1 align="center">I'm Almog Shtaigmann</h1>
-<h3 align="center">Application Software Engineer @ Shutterfly. Ex-Intel </h3>
+<h3 align="center">Software Engineer Intern @ Microsoft | Ex-Shutterfly , Ex-Intel </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=almogshkt&label=Profile%20views&color=29cebc&style=flat" alt="almogshkt" /> </p>
 
-- 📚 2nd Year Computer Science Student
+- 📚 3nd Year Computer Science Student
 - 📫 How to reach me **a.shtaigmann@gmail.com**
 - [My Site](https://almogshkt.github.io/Almog-Shtaigmann/index.html)
 ___
