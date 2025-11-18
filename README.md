@@ -16,12 +16,14 @@
 At Microsoft Fabric, I:
 - Develop scalable frontend features using **Angular (v19+)** and **TypeScript**
 - Leverage **Angular Signals**, `computed` properties, and `effects` for reactive state management
-- Apply patterns like **Singleton**, **Factory**, and **Store** to optimize architecture
-- Refactor complex UI components for performance and clarity
-- Enhance **accessibility** for inclusive UX and improve **E2E test coverage**
-- Collaborate across disciplines to deliver user-focused solutions
-- Drive tooling and workflow enhancements supporting Microsoft AI & productivity goals
-- Write clean, testable, maintainable code following engineering excellence principles
+- Apply architectural patterns such as **Singleton**, **Factory**, and **Store** for clean and scalable code
+- Refactor complex UI components for performance, stability, and maintainability
+- Work across the Microsoft Fabric stack including **Notebooks**, **Pipelines**, **Lakehouse**, and **Power BI** to build reliable, large-scale shiproom reporting platforms
+- Enhance accessibility and ensure inclusive user experiences
+- Improve **E2E test coverage** and automation to boost reliability and reduce regressions
+- Collaborate with PMs, designers, and backend engineers to deliver user-centric features
+- Drive tooling and workflow enhancements aligned with Microsoft’s AI and productivity goals
+- Write clean, maintainable, and well-tested code following engineering best practices
 
 ---
 
@@ -33,6 +35,6 @@ At Microsoft Fabric, I:
 ### 🤝 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/almog-shtaigmann/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almog-shtaigmann" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="almog-shtaigmann" />
   </a>
 </p>
