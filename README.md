@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=almogshkt&label=Profile%20views&color=29cebc&style=flat" alt="almogshkt" />
 </p>
 
-- 🎓 3rd Year Computer Science Student
-- 💻 Software Engineer Intern @ Microsoft (Fabric Group)
+- 🎓BS.C CS
+- 💻 Software Engineer @ Microsoft (Fabric Group)
 - 📬 Reach me at **a.shtaigmann@gmail.com**
 - 🌐 [My Portfolio](https://almogshkt.github.io/Almog-Shtaigmann/index.html)
 
